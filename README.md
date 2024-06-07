@@ -4,8 +4,6 @@ Welcome to the Online Marketplace project! This repository contains the codebase
 
 ## 📌 Table of Contents
 
-- [Online Marketplace 🛒](#online-marketplace-)
-  - [📌 Table of Contents](#-table-of-contents)
   - [📌 Project Overview](#-project-overview)
   - [📌 Features](#-features)
   - [📌 Technologies Used](#-technologies-used)
